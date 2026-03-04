@@ -32,15 +32,11 @@ Key analysis areas include:
 - **Price vs Rarity scatter plot**
 - Distribution of stats using **histograms and box plots**
 
----
-
 ### 2️⃣ Pal Skills and Work Suitability
 - Stacked bar chart of **skill levels by Pal type**
 - Distribution of **different work skill combinations**
 - **Skill correlation heatmap**
 - **Parallel coordinates plot** to compare multiple skills
-
----
 
 ### 3️⃣ Pal Combat Attributes
 - **3D combat stats visualization**
@@ -50,8 +46,6 @@ Key analysis areas include:
   - Walk Speed
   - Run Speed
   - Ride Sprint Speed
-
----
 
 ### 4️⃣ Pal Economy and Value
 - **Price distribution by rarity**
@@ -114,11 +108,12 @@ The dataset contains information about Palworld creatures including:
 Clone the repository:
 
 ```bash
+
 git clone https://github.com/yourusername/palworld-dashboard.git
 
-Navigate to the project folder:
 cd palworld-dashboard
 
-Install required libraries:
 pip install pandas plotly dash matplotlib seaborn
+
+
 
