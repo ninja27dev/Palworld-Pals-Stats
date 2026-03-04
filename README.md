@@ -73,3 +73,49 @@ Key analysis areas include:
 ---
 
 ## 📁 Project Structure
+
+Palworld-Dashboard
+│
+├── data
+│ └── Pals.csv
+│
+├── notebooks
+│ └── Palworld_Pal_Stats.ipynb
+│
+├── app.py
+│
+├── requirements.txt
+│
+└── README.md
+
+
+---
+
+## 📊 Dataset
+
+The dataset contains information about Palworld creatures including:
+
+- Name
+- Type
+- Rarity
+- HP
+- Melee Attack
+- Magic Attack
+- Defense
+- Speed attributes
+- Work skills
+- Price
+- Drops
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/palworld-dashboard.git
+
+## Navigate to the project folder:
+
+cd palworld-dashboard
