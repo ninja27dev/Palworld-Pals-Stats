@@ -116,6 +116,9 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/palworld-dashboard.git
 
-## Navigate to the project folder:
-
+Navigate to the project folder:
 cd palworld-dashboard
+
+Install required libraries:
+pip install pandas plotly dash matplotlib seaborn
+
