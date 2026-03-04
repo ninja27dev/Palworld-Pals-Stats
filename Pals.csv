@@ -1,0 +1,127 @@
+Number,Name,Type,Kindling,Planting,Handiwork,Lumbering,Medicine Production,Transportation,Watering,Generating Electricity,Gathering,Mining,Cooling,Farming,Work,# Of Work,Drops,Size,HP,Melee Attack,Magic Attack,Defense,Support,Enemy Receive Damage Rate,Price,Slow Walk Speed,Run Speed,Ride Sprint Speed,Male Probability,Rarity
+1,Lamball,Neutral,,,1.0,,,1.0,,,,,,1.0,"Farming L1, Handiwork L1, Transporting L1",3,"Lamball Mutton, Wool",00 | XS,70,70,70,70,100,200.0,1000,23,400,550.0,50,1
+2,Cattiva,Neutral,,,1.0,,,1.0,,,1.0,1.0,,,"Gathering L1, Handiwork L1, Mining L1, Transporting L1",4,Red Berries,00 | XS,70,70,70,70,100,200.0,1000,30,400,550.0,50,1
+3,Chikipi,Neutral,,,,,,,,,1.0,,,1.0,"Farming L1, Gathering L1",2,"Chikipi Poultry, Egg",00 | XS,60,70,60,60,70,200.0,1000,50,375,550.0,50,1
+4,Lifmunk,Grass,,1.0,1.0,1.0,1.0,,,,1.0,,,,"Gathering L1, Handiwork L1, Lumbering L1, Medicine L1, Planting L1",5,"Berry Seeds, Low Grade Medical Supplies",00 | XS,75,70,70,70,100,100.0,1010,20,400,550.0,50,1
+5,Foxparks,Fire,1.0,,,,,,,,,,,,Kindling L1,1,"Flame Organ, Leather",00 | XS,65,70,75,70,100,130.0,1040,40,400,550.0,50,1
+6,Fuack,Water,,,1.0,,,,1.0,,1.0,,,,"Handiwork L1, Transporting L1, Watering L1",3,"Leather, Pal Fluids",00 | XS,60,80,80,60,100,130.0,1120,70,300,400.0,50,1
+7,Sparkit,Electric,,,1.0,,,1.0,,1.0,,,,,"Electricity L1, Handiwork L1, Transporting L1",3,Electric Organ,00 | XS,60,60,75,70,80,130.0,1030,40,350,500.0,50,1
+8,Tanzee,Grass,,1.0,1.0,1.0,,1.0,,1.0,,,,,"Gathering L1, Handiwork L1, Lumbering L1, Planting L1, Transporting L1",5,Mushroom,00 | XS,80,100,70,70,100,120.0,1280,48,300,400.0,50,1
+9,Rooby,Fire,1.0,,,,,,,,,,,,Kindling L1,1,"Flame Organ, Leather",01 | S,75,100,70,75,100,130.0,2950,70,400,550.0,50,2
+10,Pengullet,"Ice, Water",,,1.0,,,1.0,1.0,,,,1.0,,"Cooling L1, Handiwork L1, Transporting L1, Watering L1",4,"Ice Organ, Pal Fluids",00 | XS,70,70,75,70,100,100.0,1080,30,500,650.0,50,1
+11,Penking,"Ice, Water",,,2.0,,,2.0,2.0,,2.0,2.0,2.0,,"Cooling L2, Handiwork L2, Mining L2, Transporting L2, Watering L2",5,"Ice Organ, Penking Plume",03 | L,95,70,95,95,100,100.0,5410,50,450,600.0,50,6
+12,Jolthog,Electric,,,,,,,,1.0,,,,,Electricity L1,1,Electric Organ,00 | XS,70,70,75,70,100,130.0,1060,30,400,550.0,50,1
+13,Gumoss,"Grass, Ground",,1.0,,,,,,,,,,,Planting L1,1,"Berry Seeds, Gumoss Leaf",00 | XS,70,100,70,70,100,180.0,1310,50,300,400.0,50,1
+14,Vixy,Neutral,,,,,,,,,1.0,,,1.0,"Farming L1, Gathering L1",2,"Bone, Leather",00 | XS,70,70,70,70,140,170.0,1000,30,350,450.0,50,2
+15,Hoocrates,Dark,,,,,,,,,1.0,,,,Gathering L1,1,"Fiber, High Grade Technical Manual",00 | XS,70,70,70,80,100,100.0,1050,26,380,550.0,50,1
+16,Teafant,Water,,,,,,,1.0,,,,,,Watering L1,1,Pal Fluids,02 | M,70,70,60,70,100,160.0,1000,30,300,400.0,50,1
+17,Depresso,Dark,,,1.0,,,1.0,,,,1.0,,,"Handiwork L1, Mining L1, Transporting L1",3,Venom Gland,00 | XS,70,70,70,70,100,120.0,1050,10,300,400.0,50,1
+18,Cremis,Neutral,,,,,,,,,1.0,,,1.0,"Farming L1, Gathering L1",2,Wool,00 | XS,70,100,70,75,100,170.0,1420,20,300,450.0,50,1
+19,Daedream,Dark,,,1.0,,,1.0,,,1.0,,,,"Gathering L1, Handiwork L1, Transporting L1",3,"Small Pal Soul, Venom Gland",00 | XS,70,100,75,60,100,100.0,1330,70,300,550.0,50,1
+20,Rushoar,Ground,,,,,,,,,,1.0,,,Mining L1,1,"Bone, Leather, Rushoar Pork",01 | S,80,100,70,70,100,110.0,1680,70,450,700.0,50,1
+21,Nox,Dark,,,,,,,,,1.0,,,,Gathering L1,1,"Leather, Small Pal Soul",00 | XS,75,70,85,70,140,100.0,1480,30,300,500.0,50,6
+22,Fuddler,Ground,,,1.0,,,1.0,,,,1.0,,,"Handiwork L1, Mining L1, Transporting L1",3,Leather,00 | XS,65,100,80,50,100,100.0,1360,30,300,550.0,50,1
+23,Killamari,Dark,,,,,,2.0,,,1.0,,,,"Gathering L1, Transporting L2",2,Venom Gland,00 | XS,60,100,60,70,100,100.0,1200,60,400,550.0,50,1
+24,Mau,Dark,,,,,,,,,,,,1.0,Farming L1,1,Gold Coin,00 | XS,70,70,60,70,100,100.0,1000,52,475,550.0,50,1
+25,Celaray,Water,,,,,,1.0,1.0,,,,,,"Transporting L1, Watering L1",2,Pal Fluids,02 | M,80,100,70,80,100,120.0,2860,30,550,700.0,50,3
+26,Direhowl,Neutral,,,,,,,,,1.0,,,,Gathering L1,1,"Gold Coin, Leather, Ruby",01 | S,80,110,90,75,100,100.0,1920,90,800,1050.0,50,2
+27,Tocotoco,Neutral,,,,,,,,,1.0,,,,Gathering L1,1,"Gunpowder, Tocotoco Feather",01 | S,60,80,75,70,70,100.0,1090,30,300,550.0,50,1
+28,Flopie,Grass,,1.0,1.0,,2.0,1.0,,,1.0,,,,"Gathering L1, Handiwork L1, Medicine L1, Planting L1, Transporting L1",5,"Low Grade Medical Supplies, Wheat Seeds",00 | XS,75,100,65,70,100,100.0,1220,100,400,550.0,50,1
+29,Mozzarina,Neutral,,,,,,,,,,,,,Farming L1,1,"Milk, Mozzarina Meat",01 | S,90,100,50,80,100,100.0,2620,55,580,700.0,20,2
+30,Bristla,Grass,,,,,,,,,,,,,"Handiwork L1, Gathering L1, Medicine L2, Planting L1, Transporting L1",5,"Lettuce Seeds, Wheat Seeds",01 | S,80,80,80,80,100,100.0,1140,50,400,550.0,50,1
+31,Gobfin,Water,,,,,,,,,,,,,"Handiwork L1, Transporting L1, Watering L2",3,Pal Fluids,01 | S,90,90,90,75,100,100.0,1840,50,400,500.0,50,2
+32,Hangyu,Ground,,,,,,,,,,,,,"Gathering L1, Handiwork L1, Transporting L2",3,Fiber,00 | XS,80,70,70,70,100,100.0,1020,50,400,550.0,50,1
+33,Mossanda,Grass,,,,,,,,,,,,,"Handiwork L2, Lumbering L2, Planting L2, Transporting L3",4,"Leather, Mushroom, Tomato Seeds",03 | L,100,100,90,90,100,100.0,6200,50,500,700.0,50,6
+34,Woolipop,Neutral,,,,,,,,,,,,1.0,Farming L1,1,"Cotton Candy, High Quality Pal Oil",01 | S,70,70,70,90,100,100.0,1450,50,300,400.0,50,3
+35,Caprity,Grass,,2.0,,,,,,,,,,1.0,"Farming L1, Planting L2",2,"Caprity Meat, Horn, Red Berries",01 | S,100,70,70,90,120,100.0,2510,70,400,550.0,50,3
+36,Melpaca,Neutral,,,,,,,,,,,,1.0,Farming L1,1,"Leather, Wool",02 | M,90,90,75,90,100,110.0,2740,62,460,800.0,50,3
+37,Eikthyrdeer,Neutral,,,,2.0,,,,,,,,,Lumbering L2,1,"Eikthyrdeer Venison, Horn, Leather",03 | L,95,70,80,80,100,100.0,2620,80,700,900.0,50,4
+38,Nitewing,Neutral,,,,,,,,,2.0,,,,Gathering L2,1,Leather,03 | L,100,100,95,80,100,100.0,6300,150,600,750.0,50,3
+39,Ribbuny,Neutral,,,1.0,,,1.0,,,1.0,,,,"Gathering L1, Handiwork L1, Transporting L1",3,"Beautiful Flower, Leather",00 | XS,75,100,65,70,100,100.0,1160,50,245,350.0,50,1
+40,Incineram,"Dark, Fire",1.0,,2.0,,,2.0,,,,1.0,,,"Handiwork L2, Kindling L1, Mining L1, Transporting L2",4,"Horn, Leather",02 | M,95,150,100,85,100,100.0,4780,80,700,960.0,50,4
+41,Cinnamoth,Grass,,2.0,,,1.0,,,,,,,,"Medicine L1, Planting L2",2,"Honey, Lettuce Seeds, Wheat Seeds",02 | M,70,100,80,80,100,100.0,5700,30,550,700.0,50,4
+42,Arsox,Fire,2.0,,,1.0,,,,,,,,,"Kindling L2, Lumbering L1",2,"Horn, Flame Organ",02 | M,85,100,95,95,100,100.0,3520,87,600,800.0,50,4
+43,Dumud,Ground,,,,,,1.0,1.0,,,2.0,,,"Mining L2, Transporting L1, Watering L1",3,"Raw Dumud, High Quality Pal Oil",02 | M,100,100,70,95,100,100.0,4690,100,450,600.0,50,4
+44,Cawgnito,Dark,,,,1.0,,,,,,,,,Lumbering L1,1,"Bone, Venom Gland, Small Pal Soul",02 | M,75,80,95,80,100,100.0,1840,85,920,1200.0,50,3
+45,Leezpunk,Dark,,,1.0,,,1.0,,1.0,,,,,"Gathering L1, Handiwork L1, Transporting L1",3,"Copper Key, Silver Key",01 | S,80,90,80,50,100,100.0,1720,100,600,800.0,50,2
+46,Loupmoon,Dark,,,2.0,,,,,,,,,,Handiwork L2,1,Bone,02 | M,80,130,100,80,100,100.0,2400,100,600,800.0,50,3
+47,Galeclaw,Neutral,,,,,,,,,2.0,,,,Gathering L2,1,"Galeclaw Poultry, Leather",02 | M,75,120,85,60,100,100.0,2010,100,600,700.0,50,2
+48,Robinquill,Grass,,1.0,2.0,1.0,1.0,2.0,,,2.0,,,,"Gathering L2, Handiwork L2, Lumbering L1, Medicine L1, Planting L1, Transporting L2",6,"Wheat Seeds, Arrow",02 | M,90,100,105,80,100,100.0,2050,100,600,750.0,50,5
+49,Gorirat,Neutral,,,1.0,2.0,,3.0,,,,,,,"Handiwork L1, Lumbering L2, Transporting L3",3,"Leather, Bone",01 | S,90,110,95,90,100,100.0,2010,66,550,720.0,50,5
+50,Beegarde,Grass,,1.0,,1.0,1.0,2.0,,,1.0,,,1.0,"Farming L1, Gathering L1, Handiwork L1, Lumbering L1, Medicine L1, Planting L1, Transporting L2",7,Honey,02 | M,80,100,90,90,100,100.0,1880,125,450,550.0,10,4
+51,Elizabee,Grass,,2.0,2.0,1.0,2.0,,,,2.0,,,,"Gathering L2, Handiwork L2, Lumbering L1, Medicine L2, Planting L2",5,"Honey, Elizabee’s Staff",03 | L,90,100,105,100,100,100.0,6830,150,450,550.0,10,8
+52,Grintale,Neutral,,,,,,,,,2.0,,,,Gathering L2,1,High Quality Pal Oil,03 | L,110,100,80,80,100,100.0,5510,32,600,800.0,50,6
+53,Swee,Ice,,,,,,,,,1.0,,1.0,,"Cooling L1, Gathering L1",2,Wool,00 | XS,60,100,60,60,100,1.3,1180,55,250,400.0,50,1
+54,Sweepa,Ice,,,,,,,,,2.0,,2.0,,"Cooling L2, Gathering L2",2,Wool,03 | L,100,100,90,90,100,100.0,6400,60,300,500.0,50,6
+55,Chillet,"Dragon, Ice",,,,,,,,,1.0,,1.0,,"Cooling L1, Gathering L1",2,Leather,02 | M,90,100,80,80,100,100.0,3450,100,600,800.0,50,4
+56,Univolt,Electric,,,,1.0,,,,1.0,,,,,"Electricity L1, Lumbering L1",2,"Leather, Electric Organ, Horn",02 | M,80,110,105,105,100,100.0,4280,80,720,1100.0,50,5
+57,Foxcicle,Ice,,,,,,,,,,,2.0,,Cooling L2,1,"Ice Organ, Leather",01 | S,90,100,95,105,100,100.0,3730,65,600,750.0,50,5
+58,Pyrin,Fire,2.0,,,1.0,,,,,,,,,"Kindling L2, Lumbering L1",2,"Flame Organ, Leather",03 | L,100,110,95,90,100,100.0,6720,100,850,1300.0,50,6
+59,Reindrix,Ice,,,,2.0,,,,,,,2.0,,"Cooling L2, Lumbering L2",2,"Reindrix Venison, Leather, Horn, ice Organ",02 | M,100,80,85,110,100,100.0,2800,35,550,700.0,50,4
+60,Rayhound,Electric,,,,,,,,2.0,,,,,Generating Electricity L2,1,Electric Organ,02 | M,90,100,100,80,100,100.0,3880,110,700,1150.0,50,5
+61,Kitsun,Fire,2.0,,,,,,,,,,,,Kindling L2,1,"Flame Organ, Leather",02 | M,100,70,115,100,110,100.0,3170,80,700,900.0,50,6
+62,Dazzi,Electric,,,1.0,,,1.0,,1.0,,,,,"Electricity L1, Handiwork L1, Transporting L1",3,Electric Organ,00 | XS,70,110,80,70,100,100.0,1390,120,400,550.0,20,2
+63,Lunaris,Neutral,,,3.0,,,1.0,,,1.0,,,,"Gathering L1, Handiwork L3, Transporting L1",3,Paldium Fragment,02 | M,90,80,100,90,100,100.0,1760,80,500,650.0,50,6
+64,Dinossom,"Dragon, Grass",,2.0,,2.0,,,,,,,,,"Lumbering L2, Planting L2",2,Wheat Seeds,03 | L,110,90,85,90,150,100.0,3240,70,550,700.0,50,6
+65,Surfent,Water,,,,,,,2.0,,,,,,Watering L2,1,Pal Fluids,02 | M,90,70,90,80,100,100.0,5050,100,500,650.0,50,4
+66,Maraith,Dark,,,,,,,,,2.0,1.0,,,"Gathering L2, Mining L1",2,"Bone, Small Pal Soul",02 | M,75,50,105,80,100,100.0,1570,100,600,800.0,50,6
+67,Digtoise,Ground,,,,,,,,,,1.0,,,Mining L3,1,"Ore, High Quality Pal Oil",02 | M,80,80,95,120,100,100.0,2980,75,300,420.0,50,5
+68,Tombat,Dark,,,,,,2.0,,,2.0,2.0,,,"Gathering L2, Mining L2, Transporting L2",3,"Leather, Small pal Soul",02 | M,95,100,95,80,100,100.0,3810,80,400,550.0,50,5
+69,Lovander,Neutral,,,2.0,,2.0,2.0,,,,1.0,,,"Handiwork L2, Medicine L2, Mining L1, Transporting L2",4,"Mushroom, Cake, Suspicious Juice, Strange Juice",03 | L,120,70,70,70,140,100.0,2450,90,750,850.0,30,5
+70,Flambelle,Fire,1.0,,1.0,,,1.0,,,,,,1.0,"Farming L1, Handiwork L1, Kindling L1, Transporting L1",4,"Flame Organ, High Quality Pal Oil",00 | XS,60,100,70,80,100,100.0,2500,65,250,375.0,50,1
+71,Vanwyrm,"Dark, Fire",1.0,,,,,3.0,,,,,,,"Kindling L1, Transporting L3",2,"Bone, Ruby, Gold Coin",03 | L,90,100,115,90,100,100.0,4360,100,700,850.0,50,4
+72,Bushi,Fire,2.0,,1.0,3.0,,2.0,,,1.0,,,,"Gathering L1, Handiwork L1, Kindling L2, Lumbering L3, Transporting L2",5,"Bone, Ingot",02 | M,80,100,125,80,100,100.0,4520,80,600,900.0,50,7
+73,Beakon,Electric,,,,,,3.0,,2.0,1.0,,,,"Electricity L2, Gathering L1, Transporting L3",3,Electric Organ,03 | L,105,100,115,80,100,100.0,7490,100,750,1200.0,50,6
+74,Ragnahawk,Fire,3.0,,,,,3.0,,,,,,,"Kindling L3, Transporting L3",2,Flame Organ,03 | L,95,100,105,120,100,100.0,6720,100,800,1300.0,50,7
+75,Katress,Dark,,,2.0,,2.0,2.0,,,,,,,"Handiwork L2, Medicine L2, Transporting L2",3,"Leather, Katress Hair, High Grade Technical Manual",02 | M,90,100,105,90,100,100.0,4120,70,440,620.0,50,6
+76,Wixen,Fire,2.0,,3.0,,,2.0,,,,,,,"Handiwork L3, Kindling L2, Transporting L2",3,"Flame Organ, High Grade Technical Manual",02 | M,90,50,110,80,120,100.0,1540,70,440,620.0,50,6
+77,Verdash,Grass,,2.0,3.0,2.0,,2.0,,,3.0,,,,"Gathering L3, Handiwork L3, Lumbering L2, Planting L2, Transporting L2",5,"Leather, Bone",02 | M,90,100,115,90,100,100.0,2200,50,500,700.0,50,8
+78,Vaelet,Grass,,,,,,,,,2.0,,,,"Gathering L2, Handiwork L2, Medicine L3, Planting L2, Transporting L1",5,"Low Grade Medical Supplies, Tomato Seeds",02 | M,100,100,100,120,100,100.0,1960,100,400,550.0,50,8
+79,Sibelyx,Ice,,,,,2.0,,,,,,2.0,1.0,"Cooling L2, Farming L1, Medicine L2",3,"High Quality Cloth, Ice Organ",03 | L,110,90,90,100,90,100.0,5900,50,400,550.0,50,7
+80,Elphidran,Dragon,,,,2.0,,,,,,,,,Lumbering L2,1,High Quality Pal Oil,03 | L,110,80,80,90,100,100.0,5230,83,630,800.0,50,7
+81,Kelpsea,Water,,,,,,,1.0,,,,,,Watering L1,1,"Raw Kelpsea, Pal Fluids",00 | XS,70,100,70,70,100,100.0,1260,50,700,900.0,50,1
+82,Azurobe,"Dragon, Water",,,,,,,3.0,,,,,,Watering L3,1,Cloth,03 | L,110,70,100,100,100,100.0,5600,75,600,800.0,50,7
+83,Cryolinx,Ice,,,1.0,2.0,,,,,,,3.0,,"Cooling L3, Handiwork L1, Lumbering L2",3,Ice Organ,03 | L,100,140,100,110,100,100.0,8440,100,720,900.0,50,7
+84,Blazehowl,"Dark, Fire",3.0,,,2.0,,,,,,,,,"Kindling L3, Lumbering L2",2,Flame Organ,03 | L,105,100,110,80,100,100.0,4040,90,750,900.0,50,7
+85,Relaxaurus,"Dragon, Water",,,,,,1.0,2.0,,,,,,"Transporting L1, Watering L2",2,"High Quality Pal Oil, Ruby",04 | XL,110,110,100,70,100,100.0,10240,40,650,800.0,50,8
+86,Broncherry,Grass,,3.0,,,,,,,,,,,Planting L3,1,"Broncherry Meat, Tomato Seeds",04 | XL,120,80,90,100,120,100.0,2920,50,350,500.0,50,7
+87,Petallia,Grass,,3.0,2.0,,2.0,1.0,,,2.0,,,,"Gathering l2, Handiwork L2, Medicine L2, Planting L3, Transporting L1",5,Beautiful Flower,02 | M,100,100,95,100,100,100.0,3590,100,550,700.0,50,8
+88,Reptyro,"Fire, Ground",3.0,,,,,,,,,3.0,,,"Kindling L3, Mining L3",2,Flame Organ,03 | L,110,100,105,120,100,100.0,6940,50,390,550.0,50,6
+89,Kingpaca,Neutral,,,,,,,,,1.0,,,,Gathering L1,1,Wool,04 | XL,120,100,85,90,100,100.0,5800,80,500,700.0,90,8
+90,Mammorest,Grass,,2.0,,2.0,,,,,,2.0,,,"Lumbering L2, Mining L2, Planting L2",3,"High Quality Pal Oil, Leather, Mammorest Meat",04 | XL,150,100,85,90,30,100.0,9450,100,430,600.0,50,8
+91,Wumpo,Ice,,,,,,,,,,,,,"Cooling L2, Handiwork L2, Lumbering L3, Transporting L4",4,"Ice Organ, Beautiful Flower",03 | L,140,100,80,100,100,100.0,5900,70,365,550.0,50,7
+92,Warsect,"Grass, Ground",,,2.0,3.0,,4.0,,,,,2.0,,"Handiwork L1, Lumbering L3, Planting L1, Transporting L3",4,Honey,03 | L,120,100,100,120,100,100.0,6830,55,500,600.0,85,8
+93,Fenglope,Neutral,,,,2.0,,,,,,,,,Lumbering L2,1,"Leather, Horn",01 | S,110,110,110,90,100,100.0,2250,85,750,1050.0,50,3
+94,Felbat,Dark,,,,,3.0,,,,,,,,Medicine L3,1,"Cloth, Small Pal Soul",02 | M,100,100,105,110,110,100.0,2100,60,550,700.0,50,6
+95,Quivern,Dragon,,,1.0,,,3.0,,,2.0,2.0,,,"Gathering L2, Handiwork L1, Mining L2, Transporting L3",4,High Quality Pal Oil,03 | L,105,100,100,100,100,100.0,6830,120,800,950.0,50,7
+96,Blazamut,Fire,3.0,,,,,,,,,4.0,,,"Kindling L3, Mining L4",2,"Coal, Flame Organ",04 | XL,100,150,125,120,50,100.0,10520,150,700,900.0,50,9
+97,Helzephyr,Dark,,,,,,3.0,,,,,,,Transporting L3,1,"Venom Gland, Medium Pal Soul",03 | L,100,100,125,100,100,100.0,7840,100,700,1100.0,50,7
+98,Astegon,"Dark, Dragon",,,1.0,,,,,,,4.0,,,"Handiwork L1, Mining L4",2,"Pal Metal Ingot, Pure Quartz",04 | XL,100,100,125,125,100,100.0,8200,100,600,800.0,50,9
+99,Menasting,"Dark, Ground",,,,2.0,,,,,,3.0,,,"Lumbering L2, Mining L3",2,"Coal, Venom Gland",03 | L,100,100,100,130,100,100.0,7050,100,1000,1200.0,50,9
+100,Anubis,Ground,,,4.0,,,2.0,,,,3.0,,,"Handiwork L4, Mining L3, Transporting L2",3,"Bone, Large Pal Soul, Innovative Technical Manual",02 | M,120,130,130,100,100,100.0,4960,80,800,1000.0,50,10
+101,Jormuntide,"Dragon, Water",,,,,,,4.0,,,,,,Watering L4,1,Pal Fluids,04 | XL,130,150,120,100,100,100.0,9320,100,525,700.0,50,8
+102,Suzaku,Fire,3.0,,,,,,,,,,,,Kindling L3,1,Flame Organ,04 | XL,120,100,105,105,100,100.0,9840,100,850,1100.0,50,8
+103,Grizzbolt,Electric,,,2.0,2.0,,3.0,,3.0,,,,,"Electricity L3, Handiwork L2, Lumbering L2, Transporting L3",4,"Electric Organ, Leather",03 | L,105,120,100,100,100,100.0,7720,80,470,550.0,50,8
+104,Lyleen,Grass,,4.0,3.0,,3.0,,,,2.0,,,,"Gathering L2, Handiwork L3, Medicine L3, Planting L4",4,Beautiful Flower,03 | L,110,100,110,105,100,100.0,7160,60,450,550.0,30,9
+105,Faleris,Fire,3.0,,,,,3.0,,,,,,,"Kindling L3, Transporting L3",2,Flame Organ,03 | L,100,100,105,110,90,100.0,6720,150,1000,1400.0,50,9
+106,Orserk,"Dragon, Electric",,,2.0,,,3.0,,4.0,,,,,"Electricity L4, Handiwork L2, Transporting L3",3,Electric Organ,03 | L,100,100,130,100,100,100.0,8320,100,900,1200.0,50,9
+107,Shadowbeak,Dark,,,,,,,,1.0,,,,,Gathering L1,1,"Pal Metal Ingot, Carbon Fiber, Innovative Technical Manual",03 | L,120,130,120,140,90,100.0,9060,80,850,1200.0,50,10
+108,Paladius,Neutral,,,,2.0,,,,,,2.0,,,"Lumbering L2, Mining L2",2,Pal Metal Ingot,03 | L,130,110,120,145,100,100.0,8810,50,800,1400.0,50,20
+109,Necromus,Dark,,,,2.0,,,,,,2.0,,,"Lumbering L2, Mining L2",2,"Pal Metal Ingot, Large Pal Soul",03 | L,130,100,145,120,100,100.0,8930,100,900,1600.0,50,20
+110,Frostallion,Ice,,,,,,,,,,,4.0,,Cooling L4,1,"Ice Organ, Diamond",03 | L,140,100,140,120,70,100.0,8440,120,1000,1500.0,50,20
+111,Jetragon,Dragon,,,,,,,,,3.0,,,,Gathering L3,1,"Pure Quartz, Polymer, Carbon Fiber, Diamond",04 | XL,110,100,140,110,100,100.0,8680,600,1700,3300.0,50,20
+112,Bellanoir,Dark ,,,2.0,,4.0,2.0,,,,,,,"Handiwork L2, Medicine L4, Transporting L2",3,,02| M,120,100,150,100,100,100.0,10030,100,600,800.0,50,20
+113,Selyne,"Dark, Neutral",,,,,,,,,,,,,"Handiwork L3, Medicine L3, Transporting L3",3,"Cloth, Sapphire, Precious Claw",03 | L,130,100,115,110,100,100.0,9500,60,450,550.0,50,9
+114,Croajiro,Water,,,1.0,,,1.0,1.0,,1.0,,,,"Watering L1, Handiwork L1, Transporting L4, Gathering L1",4," Pal Fluids, Cloth",00 |XS,80,100,100,85,100,100.0,2040,33,300,400.0,50,4
+115,Lullu,Grass,,2.0,2.0,,2.0,,,,1.0,,,,"Planting L2, Handiwork L2, Gathering L1, Medicine L2",4,"Beautiful Flower, Red Berries",01 | S ,90,100,90,80,100,100.0,3420,50,400,800.0,50,4
+116,Shroomer,Grass,,2.0,1.0,2.0,,,,,2.0,,,,"Planting L2, Handiwork L1, Gathering L2, Lumbering L2",4," Mushroom, Red Berries",01 | S,110,100,80,90,100,100.0,3660,50,400,700.0,55,4
+117,Kikit,Ground,,,,,,,,,,1.0,,,Mining L1,1,"Leather, Bone, Crude oil",00 | XS,75,100,70,90,100,100.0,2800,50,800,900.0,50,4
+118,Sootseer,"Dark, Fire",3.0,,2.0,,,,,,1.0,2.0,,1.0,"Kindling L3, Handiwork L2, Gathering L1, Mining L2, Farming L1",5,"Medium Pal Soul,Bone, Crude oil",02 | M,105,100,125,90,100,100.0,4890,100,800,100.0,50,7
+119,Prixter,"Dark, Ground",,,,3.0,1.0,,,,1.0,,,,"Gathering L1, Lumbering L3, Medicine L1",3,Venom Gland,01 | S ,90,100,110,90,100,100.0,3939,90,720,720.0,50,5
+120,Knocklem,Ground,,,,,,4.0,,,1.0,3.0,,,"Gathering L1, Mining L3, Transporting  L4",3,Ore,03 | L,105,100,110,135,100,100.0,10380,100,550,700.0,70,9
+121,Yakumo ,Neutral,,,,,,,,,2.0,,,,Gathering L2,1,Leather,00 | XS,85,80,85,85,110,100.0,3360,70,370,520.0,50,4
+122,Dogen,Neutral,,,3.0,2.0,1.0,2.0,,,2.0,,,,"Handiwork L3, Gathering L2, Lumbering L2, Medicine L1, Transporting L2",5,Bones,01 | S,90,100,100,100,100,100.0,4440,45,300,550.0,50,6
+123,Dazemu,Ground,,,,,,,,,2.0,,,,Gathering L2,1,Bones,01 | S,95,100,90,80,100,100.0,2610,80,900,1200.0,50,5
+124,Mimong ,Neutral,,,,,,,,,1.0,,,,Gathering L1,1,"Gold Coin, Dog Coin",00 | XS,60,100,60,130,100,100.0,6150,40,2000,,80,7
+125,Xenovader,Dark,,,,2.0,,2.0,,,,,,,"Lumbering L2, Transporing L2",2,Meteorite Fragment,01 | S,90,100,125,85,100,100.0,6750,125,550,700.0,50,7
+126,Xenogard,Dragon,,,,,,,,,,3.0,,,Mining L3,1,"Meteorite Fragment, High Quality Pal Oil",03 | L,110,100,120,130,100,100.0,8810,115,790,1200.0,50,9
